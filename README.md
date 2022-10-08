@@ -1,7 +1,7 @@
 
 [![MasterHead](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)](https://rasuljonFullStackDev.io)
 
-<img src='https://camo.githubusercontent.com/973ed9aeb3fcbda48056b50f688fa280009567cc020a2b71fc2f67a7e14feb36/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f31362f65342f65663136653465363862306433636238316536626238613863333235386437652e676966'>
+<img src='https://www.designer-daily.com/wp-content/uploads/2018/07/new-products-everyday.gif'>
 
 ![alt text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)
 <h1 align="center"> ✨ Assalomu alaykum    👋</h1>
