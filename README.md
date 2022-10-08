@@ -17,7 +17,7 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
          <img alt="total stars" title="Telefon" src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"/>
       </a>
       <a  href='https://mail.google.com/mail/tursunboyevabdurasuldevolop'>
-           <img alt="total stars" title="Email" src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"/>tursunboyevabdurasuldevolop@gmail.com
+           <img alt="total stars" title="Email" src="https://custom-icon-badges.demolab.com/badge/-tursunboyevabdurasuldevolop@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
        </a>
    </p>
 
