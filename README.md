@@ -51,7 +51,11 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rasuljonFullStackDev&theme=gruvbox&border_radius=4.5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasuljonFullStackDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasuljonFullStackDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rasuljonFullStackDev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 <details>
  <summary><h3>👨‍💻 Tursunboyev Abdurasul</h3></summary>
