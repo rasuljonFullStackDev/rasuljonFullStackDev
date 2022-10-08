@@ -1,6 +1,8 @@
 
 [![MasterHead](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)](https://rasuljonFullStackDev.io)
 
+<img src='https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif'>
+
 ![alt text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)
 <h1 align="center"> ✨ Assalomu alaykum    👋</h1>
 
