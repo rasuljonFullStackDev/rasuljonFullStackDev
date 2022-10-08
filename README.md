@@ -47,14 +47,14 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasuljonFullStackDev&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasuljonFullStackDev&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rasuljonFullStackDev&theme=gruvbox&border_radius=4.5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasuljonFullStackDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rasuljonFullStackDev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
 <details>
