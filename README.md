@@ -16,9 +16,6 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
       <a  href='https://mail.google.com/mail/tursunboyevabdurasuldevolop'>
            <img alt="total stars" title="Email" src="https://custom-icon-badges.demolab.com/badge/-tursunboyevabdurasuldevolop@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
        </a>
-           <a  href='https://t.me/FullStackDevelopper'>
-           <img alt="total stars" title="Telegram" src="https://custom-icon-badges.demolab.com/badge/telegram-user.png?logo=telegram-user"/>
-       </a>
    </p>
 
 <!--
