@@ -72,6 +72,9 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rasuljonFullStackDev&&theme=xcode)](https://github.com/rasuljonFullStackDev)
 
+## Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/rasuljonFullStackDev/blob/output/github-contribution-grid-snake.gif)
 <!--
 **rasuljonFullStackDev/rasuljonFullStackDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
