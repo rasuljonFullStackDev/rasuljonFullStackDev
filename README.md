@@ -31,7 +31,7 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 
 <br />
 
-### 📺 Bajargan ishlarim
+<!-- ### 📺 Bajargan ishlarim -->
 
 <!-- <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
