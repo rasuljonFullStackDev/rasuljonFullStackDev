@@ -8,7 +8,7 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 
    <p align="left">
       <a href="https://github.com/rasuljonFullStackDev?tab=repositories">
-         <img alt="total stars" title="Git Hub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+         <img alt="total stars" title="Git Hub" src="https://custom-icon-badges.demolab.com/github/stars/rasuljonFullStackDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
       <a href="tel:+998995192378">
          <img alt="total stars" title="Telefon" src="https://custom-icon-badges.demolab.com/badge/+998 (99) 519 23 78-orange?style=for-the-badge&logo=phone&logoColor=white"/>
@@ -43,7 +43,15 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 <br />
 
 <!-- ### 📺 Bajargan ishlarim -->
+#
 
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasuljonFullStackDev&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 <details>
  <summary><h3>👨‍💻 Tursunboyev Abdurasul</h3></summary>
    Men dasturlashni 2020-yil dekabr oyida web dastulashni  Front-end bo'limini  mustaqil o'rgana boshladim.
