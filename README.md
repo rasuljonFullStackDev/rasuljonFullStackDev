@@ -1,4 +1,8 @@
-### Hi there 👋
+# ✨ Assalomu alaykum 👋
+
+**`Tursunboyev Abdurasul Full-Stack developper`** 
+
+Assalomu alaykum men Full-Stack dasturchiman 
 
 <!--
 **rasuljonFullStackDev/rasuljonFullStackDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
