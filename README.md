@@ -1,4 +1,4 @@
-# ✨ Assalomu alaykum 👋
+# ✨ Assalomu alaykum    👋
 
 **`Tursunboyev Abdurasul Full-Stack developper`**
 
