@@ -1,6 +1,10 @@
-# ✨ Assalomu alaykum    👋
 
-**`Tursunboyev Abdurasul Full-Stack developper`**
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rasuljonFullStackDev.io)
+
+<h1 align="center"># ✨ Assalomu alaykum    👋</h1>
+
+<h3 align="center">**`Tursunboyev Abdurasul Full-Stack developper`**</h3>
+
 
 Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_uz'>UITC</a> kompaniyasida ish faoliyatimni olib bormoqdaman.Agar sizlarda qandayadir savol Takliflar bolsa menga murojat qilishingiz mumkin.
 
@@ -20,7 +24,6 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 
 ### 🧰 Biladigan tehnologiyalarim
 
-<img align="left" alt="VSCODE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="BOOTSTRAP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -38,6 +41,8 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
 <img align="left" alt="LARAVEL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+
 <br />
 <br />
 <br />
@@ -63,6 +68,9 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
    2021-yil aprel oyida <a  href='https://t.me/uitc_uz' >UITC</a> kompaniyasiga stajjorlikga kirdim.
    2021-yil avgust oyidan  <a  href='https://t.me/uitc_uz' >UITC</a> kompaniyasiga rasman ishga kirdim va dars berishni boshladim. Hozirda ham <a  href='https://t.me/uitc_uz' >UITC</a> kompaniyasiga dars berish va loyihalar ustida ishlamoqdaman. 
 </details>
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rasuljonFullStackDev&&theme=xcode)](https://github.com/rasuljonFullStackDev)
+
 <!--
 **rasuljonFullStackDev/rasuljonFullStackDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
