@@ -1,9 +1,10 @@
 
 [![MasterHead](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)](https://rasuljonFullStackDev.io)
 
-<h1 align="center"># ✨ Assalomu alaykum    👋</h1>
+![Side-by-side comparison: MSF half](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)
+<h1 align="center"> ✨ Assalomu alaykum    👋</h1>
 
-<h3 align="center">**`Tursunboyev Abdurasul Full-Stack developper`**</h3>
+<h3 align="center">Tursunboyev Abdurasul Full-Stack developper</h3>
 
 
 Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_uz'>UITC</a> kompaniyasida ish faoliyatimni yurutmoqdaman.Agar sizlarda qandayadir savol Takliflar bolsa menga murojat qilishingiz mumkin.
