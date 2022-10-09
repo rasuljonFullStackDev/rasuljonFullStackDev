@@ -34,6 +34,8 @@
 
 ### 🧰 Texnologiyalar
 
+<br>
+
 ### 📌 Front-End
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -47,19 +49,27 @@
 <img align="left" alt="REDUX" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="ELECTRON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 
+<br> 
+
 ### 📌 Back-End
 
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="LARAVEL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align="left" alt="LARAVEL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 
+<br>
+
 ### 📌 Database
 
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
+<br>
+
 ### 📌 Hosting
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://raw.githubusercontent.com/nikola-wd/web-dev-icons/master/Netlify.svg" />
+
+<br>
 
 ### 📌 Yordamchi dasturlar
 
