@@ -66,6 +66,7 @@
 ### 📌 Hosting
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://raw.githubusercontent.com/nikola-wd/web-dev-icons/master/Netlify.svg" />
+<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.ahost.uz/sites/all/themes/ahost/favicon.ico" />
 
 <br>
 
