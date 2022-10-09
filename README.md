@@ -2,7 +2,8 @@
 <h1 align="center"> ✨ Assalomu alaykum <img width="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 <h3 align="center">Tursunboyev Abdurasul Full-Stack developper</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 ##
 <img
 width="100%"
@@ -149,7 +150,6 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
 <br />
 <br />
 
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=rasuljonFullStackDev&theme=onedark)
 
 <!-- ### 📺 Bajargan ishlarim -->
 #
@@ -158,11 +158,17 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
 
 ![Forrest's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=rasuljonFullStackDev&show_icons=true&theme=radical)
+
 ![GitHub
 Streak](https://streak-stats.demolab.com?user=rasuljonFullStackDev&theme=gruvbox&border_radius=4.5)
+
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasuljonFullStackDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=rasuljonFullStackDev&theme=onedark)
 #
+
+
 <details>
    <summary><h3>👨‍💻 Tursunboyev Abdurasul</h3></summary>
    Men dasturlashni 2020-yil dekabr oyida web dastulashni Front-end bo'limini
