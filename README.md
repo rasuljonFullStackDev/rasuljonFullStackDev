@@ -3,7 +3,7 @@
 
 <!-- <h3 align="center">Tursunboyev Abdurasul Full-Stack developper</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=38C2FF&center=true&vCenter=true&multiline=true&width=700&lines=Tursunboyev+Abdurasul+Full-Stack+developper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Tursunboyev+Abdurasul+Full-Stack+developper)](https://git.io/typing-svg)
 
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=Tursunboyev+Abdurasul+Full-Stack+developper" alt="Typing SVG" /></a> -->
 
