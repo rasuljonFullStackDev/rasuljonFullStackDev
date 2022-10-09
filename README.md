@@ -1,7 +1,7 @@
 
 <h1 align="center"> ✨ Assalomu alaykum <img width="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!-- <h3 align="center">Tursunboyev Abdurasul Full-Stack developper</h3> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Tursunboyev+Abdurasul+Full-Stack+developper)](https://git.io/typing-svg) -->
@@ -153,6 +153,7 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
 <br />
 <br />
 
+![](./profile-3d-contrib/profile-night-animate.svg)
 
 <!-- ### 📺 Bajargan ishlarim -->
 #
