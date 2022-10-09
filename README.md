@@ -32,7 +32,7 @@
        </a>
    </p>
 
-### 🧰 Texnologiyalar
+## 🧰 Texnologiyalar
 
 ### 📌 Front-End
 
