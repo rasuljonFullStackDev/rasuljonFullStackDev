@@ -2,8 +2,11 @@
 <h1 align="center"> ✨ Assalomu alaykum <img width="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 <h3 align="center">Tursunboyev Abdurasul Full-Stack developper</h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
 ##
 <img
 width="100%"
