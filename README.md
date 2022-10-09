@@ -7,11 +7,12 @@
 
 ![alt text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.gif)
 
-
-Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_uz'>UITC</a> kompaniyasida ish faoliyatimni yurutmoqdaman.Agar sizlarda qandayadir savol Takliflar bolsa menga murojat qilishingiz mumkin.
+<p>
+⚡ Assalomu alaykum men Full-Stack dasturchiman <br>
+⚡ Ish faoliyatimni 2020-yildan boshlab <a href='https://t.me/uitc_uz'>UITC</a> kompaniyasida ish faoliyatimni yurutmoqdaman. 
+</p>
 
 ## 📞 Bog'lanish
-
    <p align="left">
       <a href="https://github.com/rasuljonFullStackDev?tab=repositories">
          <img alt="total stars" title="Git Hub" src="https://custom-icon-badges.demolab.com/github/stars/rasuljonFullStackDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
@@ -21,6 +22,9 @@ Assalomu alaykum men Full-Stack dasturchiman.Hozirda <a href='https://t.me/uitc_
       </a>
       <a  href='https://mail.google.com/mail/tursunboyevabdurasuldevolop'>
            <img alt="total stars" title="Email" src="https://custom-icon-badges.demolab.com/badge/-tursunboyevabdurasuldevolop@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
+       </a>
+        <a  href='https://rasuljon.uz'>
+           <img alt="total stars" title="rasuljon.uz" src="https://custom-icon-badges.demolab.com/badge/-rasuljon.uz-red?style=for-the-badge&logo=mention&logoColor=white"/>
        </a>
    </p>
 
