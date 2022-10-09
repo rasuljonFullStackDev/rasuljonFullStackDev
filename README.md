@@ -1,12 +1,12 @@
 
 <h1 align="center"> ✨ Assalomu alaykum <img width="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!-- <h3 align="center">Tursunboyev Abdurasul Full-Stack developper</h3> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Tursunboyev+Abdurasul+Full-Stack+developper)](https://git.io/typing-svg) -->
 <a href="https://github.com/rasuljonFullStackDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Tursunboyev+Abdurasul+Full-Stack+developper" alt="Typing SVG" /></a>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=Tursunboyev+Abdurasul+Full-Stack+developper" alt="Typing SVG" /></a> -->
-
 ##
 <img
 width="100%"
