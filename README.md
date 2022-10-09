@@ -36,7 +36,11 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
    </a>
    <a href='https://t.me/FullStackDevelopper'>
       <img alt="total stars" title="rasuljon.uz"
-         src="https://custom-icon-badges.demolab.com/badge/-FullStackDevelopper-red?style=for-the-badge&logo=telegram&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/badge/-@FullStackDevelopper-red?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   <a href='https://t.me/abdurasul_dev'>
+      <img alt="total stars" title="rasuljon.uz"
+         src="https://custom-icon-badges.demolab.com/badge/-@abdurasul_dev-red?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 
