@@ -18,27 +18,27 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
 
 ## 📞 Bog'lanish
 <p align="left">
-   <a href="https://github.com/rasuljonFullStackDev?tab=repositories">
+   <a href="https://github.com/rasuljonFullStackDev?tab=repositories"target='_blank'>
       <img alt="total stars" title="Git Hub"
          src="https://custom-icon-badges.demolab.com/github/stars/rasuljonFullStackDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
-   <a href="tel:+998995192378">
+   <a href="tel:+998995192378"target='_blank'>
       <img alt="total stars" title="Telefon"
          src="https://custom-icon-badges.demolab.com/badge/-+998 (99) 519 23-red?style=for-the-badge&logo=phone&logoColor=white"/>
    </a>
-   <a href='https://mail.google.com/mail/tursunboyevabdurasuldevolop'>
+   <a href='https://mail.google.com/mail/tursunboyevabdurasuldevolop'target='_blank'>
       <img alt="total stars" title="Email"
          src="https://custom-icon-badges.demolab.com/badge/-tursunboyevabdurasuldevolop@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
    </a>
-   <a href='https://rasuljon.uz'>
+   <a href='https://rasuljon.uz' target='_blank'>
       <img alt="total stars" title="rasuljon.uz"
          src="https://custom-icon-badges.demolab.com/badge/-rasuljon.uz-red?style=for-the-badge&logo=website&logoColor=white"/>
    </a>
-   <a href='https://t.me/FullStackDevelopper'>
+   <a href='https://t.me/FullStackDevelopper' target='_blank' >
       <img alt="total stars" title="rasuljon.uz"
          src="https://custom-icon-badges.demolab.com/badge/-@FullStackDevelopper-red?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href='https://t.me/abdurasul_dev'>
+   <a  href='https://t.me/abdurasul_dev'  target='_blank'>
       <img alt="total stars" title="rasuljon.uz"
          src="https://custom-icon-badges.demolab.com/badge/-@abdurasul_dev-red?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
