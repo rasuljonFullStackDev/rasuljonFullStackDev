@@ -153,7 +153,7 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
 <br />
 <br />
 
-![](./profile-3d-contrib/profile-night-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- ### 📺 Bajargan ishlarim -->
 #
