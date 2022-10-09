@@ -24,8 +24,7 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
    </a>
    <a href="tel:+998995192378">
       <img alt="total stars" title="Telefon"
-         src="https://custom-icon-badges.demolab.com/badge/-+998 (99) 519 23-red?style=for-the-badge&logo=phone&logoColor=white
-         "/>
+         src="https://custom-icon-badges.demolab.com/badge/-+998 (99) 519 23-red?style=for-the-badge&logo=phone&logoColor=white"/>
    </a>
    <a href='https://mail.google.com/mail/tursunboyevabdurasuldevolop'>
       <img alt="total stars" title="Email"
