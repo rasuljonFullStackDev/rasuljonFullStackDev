@@ -1,5 +1,5 @@
 
-<h1 align="center"> ✨ Assalomu alaykum 👋</h1>
+<h1 align="center"> ✨ Assalomu alaykum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 <h3 align="center">Tursunboyev Abdurasul Full-Stack developper</h3>
 
@@ -42,6 +42,7 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
       <img alt="total stars" title="rasuljon.uz"
          src="https://custom-icon-badges.demolab.com/badge/-@abdurasul_dev-red?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   <img src="https://komarev.com/ghpvc/?username=rasuljonFullStackDev">
 </p>
 
 ## 🧰 Texnologiyalar
