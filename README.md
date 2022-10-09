@@ -5,6 +5,7 @@
 
 ##
 <img
+width="100%"
    src='https://www.designer-daily.com/wp-content/uploads/2018/07/new-products-everyday.gif'>
 
 ![alt
