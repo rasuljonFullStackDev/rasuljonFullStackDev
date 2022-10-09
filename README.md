@@ -113,8 +113,6 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
    src="https://www.ahost.uz/sites/all/themes/ahost/favicon.ico" />
 <img align="left" alt="HEROKU" width="100px" style="padding-right:10px;
    padding-top:10px;" src="https://sayt.uz/img/saytlogo.png" />
-<img align="left" alt="HEROKU" width="100px" style="padding-right:10px;
-   padding-top:10px;" src="https://sayt.uz/img/saytlogo.png" />
 <br>
 
 ### 📌 Yordamchi dasturlar
@@ -138,11 +136,6 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
    />
 
-## Loyihalarim
-
-<img src="https://t.me/abdurasul_dev/52">
-<script async src="https://telegram.org/js/telegram-widget.js?21"
-   data-telegram-post="abdurasul_dev/52" data-width="100%"></script>
 <!-- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <br />
