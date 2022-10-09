@@ -68,6 +68,7 @@
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://raw.githubusercontent.com/nikola-wd/web-dev-icons/master/Netlify.svg" />
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.ahost.uz/sites/all/themes/ahost/favicon.ico" />
 <img align="left" alt="HEROKU" width="100px" style="padding-right:10px; padding-top:10px;" src="https://sayt.uz/img/saytlogo.png" />
+<img align="left" alt="HEROKU" width="100px" style="padding-right:10px; padding-top:10px;" src="https://sayt.uz/img/saytlogo.png" />
 <br>
 
 ### 📌 Yordamchi dasturlar
@@ -78,8 +79,8 @@
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
-
-
+## Loyihalarim
+<iframe src="https://t.me/abdurasul_dev/52" width="200px" frameborder="0"></iframe>
 
 <!-- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
