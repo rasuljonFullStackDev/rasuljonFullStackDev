@@ -34,8 +34,6 @@
 
 ### 🧰 Texnologiyalar
 
-<br>
-
 ### 📌 Front-End
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -73,9 +71,9 @@
 
 ### 📌 Yordamchi dasturlar
 
-<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/vscode/vscode-original.svg" />
-<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/photoshop/photoshop-plain.svg" />
-<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-original.svg" />
+<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicons/logos/vscode/vscode-original.svg" />
+<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicons/logos/photoshop/photoshop-plain.svg" />
+<img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicons/logos/figma/figma-original.svg" />
 <img align="left" alt="HEROKU" width="30px" style="padding-right:10px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
