@@ -9,7 +9,7 @@
 
 <p>
 ⚡ Assalomu alaykum men Full-Stack dasturchiman <br>
-⚡ Ish faoliyatimni 2020-yildan boshlab <a href='https://t.me/uitc_uz'>UITC</a> kompaniyasida ish faoliyatimni yurutmoqdaman. 
+⚡ Ish faoliyatimni 2020-yildan boshlab <a href='https://t.me/uitc_uz'>UITC</a> kompaniyasida yurutmoqdaman. 
 </p>
 
 ## 📞 Bog'lanish
