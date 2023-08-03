@@ -191,7 +191,6 @@ graph](https://activity-graph.herokuapp.com/graph?username=rasuljonFullStackDev&
 ![snake
 gif](https://github.com/rasuljonFullStackDev/rasuljonFullStackDev/blob/output/github-contribution-grid-snake.gif)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rasuljonFullStackDev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rasuljonFullStackDev/rasuljonFullStackDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
