@@ -54,38 +54,17 @@ text](https://i.pinimg.com/originals/56/c9/d7/56c9d773a346db66c907d60cbc44d9d8.g
 
 ### 📌 Front-End
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-   />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-   />
-<img align="left" alt="BOOTSTRAP" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-   />
-<img align="left" alt="TAILWINDCSS" width="30px" style="padding-right:10px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-   />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-   />
-<img align="left" alt="JQUERY" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"
-   />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-   />
-<img align="left" alt="React" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-   />
-<img align="left" alt="REDUX" width="30px" style="padding-right:10px;"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-   />
-<img align="left" alt="ELECTRON" width="30px" style="padding-right:10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-   />
-
-<br>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="BOOTSTRAP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="TAILWINDCSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="JQUERY" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="REDUX" width="30px" style="padding-right:10px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+<img align="left" alt="ELECTRON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
+<br/>
 
 ### 📌 Back-End
 
