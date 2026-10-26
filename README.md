@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm Abdurasul <img width="28px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rasuljonFullStackDev&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views" />
+<a href="https://github.com/rasuljonFullStackDev"><img src="https://komarev.com/ghpvc/?username=rasuljonFullStackDev&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views" /></a>
 </p>
 
 <p align="center">
