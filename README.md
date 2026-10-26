@@ -1,7 +1,11 @@
 <h1 align="center">✨ Hi, I'm Abdurasul <img width="28px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></h1>
 
 <p align="center">
-<a href="https://github.com/rasuljonFullStackDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(Laravel+%2B+React);CRM%2FERP%2C+LMS%2C+Telegram+bots;Payment+%26+Government+API+integrations" alt="Typing SVG" /></a>
+<img src="https://komarev.com/ghpvc/?username=rasuljonFullStackDev&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views" />
+</p>
+
+<p align="center">
+<a href="https://github.com/rasuljonFullStackDev"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(Laravel+%2B+React);CRM%2FERP%2C+LMS%2C+Telegram+bots;Payment+%26+Government+API+integrations" alt="Typing SVG" /></a>
 </p>
 
 <img width="100%" src="https://www.designer-daily.com/wp-content/uploads/2018/07/new-products-everyday.gif">
@@ -58,9 +62,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rasuljonFullStackDev&theme=radical&border_radius=4.5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasuljonFullStackDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-## 🐍 Contribution snake
-
-![snake gif](https://github.com/rasuljonFullStackDev/rasuljonFullStackDev/blob/output/github-contribution-grid-snake.gif)
